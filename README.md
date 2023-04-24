@@ -1,6 +1,7 @@
 # travel_app_parallax
 
-A new Flutter project.
+Efeito parallax feito com PageView do desafio 1-2-1 flutteruidev.
+Parallax effect with PageView from 1-2-1 Newsletter flutteruidev.
 
 ## Getting Started
 
