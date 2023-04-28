@@ -3,15 +3,8 @@
 Efeito parallax feito com PageView do desafio 1-2-1 flutteruidev.
 Parallax effect with PageView from 1-2-1 Newsletter flutteruidev.
 
-## Getting Started
+[Travel app concept Parallax Interaction](https://dribbble.com/shots/5274370-Travel-app-concept-Parallax-Interaction)
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![travel_parallax](https://user-images.githubusercontent.com/48810804/235031967-6a916b1e-d051-40bf-bc0e-49991edb1a94.png)
